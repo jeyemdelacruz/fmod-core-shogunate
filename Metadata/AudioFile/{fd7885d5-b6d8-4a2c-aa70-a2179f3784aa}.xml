@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{fd7885d5-b6d8-4a2c-aa70-a2179f3784aa}">
+		<property name="assetPath">
+			<value>Music/Journey of a Lifetime.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>206.40000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{718bbee8-d5d3-4dfc-b242-9be313c2ad81}</destination>
+		</relationship>
+	</object>
+</objects>
